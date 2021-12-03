@@ -1,0 +1,16 @@
+html {
+    font-family: tahoma, verdana, sans-serif
+}
+
+header {
+    color:red;
+    background-color: skyblue;
+    font-size: 72px;
+    text-align: center;
+}
+a {
+    text-align: center;
+    margin: 40px;
+    background-color: purple;
+    color: yellow
+}
